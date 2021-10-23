@@ -1,0 +1,20 @@
+{
+  "name": "reefgitcoin",
+  "version": "1.0.0",
+  "description": "reef gitcoin",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/contracts-upgradeable": "^4.3.2",
+    "@pancakeswap/pancake-swap-lib": "0.0.4"
+  }
+}
